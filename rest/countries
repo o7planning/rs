@@ -1,0 +1,34 @@
+[
+  {
+    "countryCode": "fr",
+    "countryName": "French"
+  },
+  {
+    "countryCode": "gb",
+    "countryName": "England"
+  },
+  {
+    "countryCode": "us",
+    "countryName": "United States"
+  },
+  {
+    "countryCode": "vn",
+    "countryName": "Vietnam"
+  },
+  {
+    "countryCode": "de",
+    "countryName": "Germany"
+  },
+  {
+    "countryCode": "ru",
+    "countryName": "Russia"
+  },
+  {
+    "countryCode": "cn",
+    "countryName": "China"
+  },
+  {
+    "countryCode": "jp",
+    "countryName": "Japan"
+  } 
+]
